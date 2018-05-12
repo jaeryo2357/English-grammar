@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jaery.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="English"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Loding">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Chapone"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".MainActivity"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".Chap16"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".Chap17"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".Chap18"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".Chap19"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".Chap20"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap2"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap3"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap4"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap5"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap6"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap7"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap8"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap9"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap10"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap11"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap12"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap13"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap15"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap21"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap22"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap23"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap24"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity android:name=".Chap25"
+            android:windowSoftInputMode="adjustResize"></activity>
+
+
+    </application>
+
+</manifest>
