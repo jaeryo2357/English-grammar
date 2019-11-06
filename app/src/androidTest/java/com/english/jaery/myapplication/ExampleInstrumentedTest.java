@@ -1,4 +1,4 @@
-package com.example.jaery.myapplication;
+package com.english.jaery.myapplication;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

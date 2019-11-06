@@ -1,4 +1,4 @@
-package com.example.jaery.myapplication;
+package com.english.jaery.myapplication;
 
 import org.junit.Test;
 
